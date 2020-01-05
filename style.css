@@ -29,17 +29,20 @@ body {
   height: auto;
 }
 .text-box {
-  font-size: 20px;
-  color: #ffffff !important;
-  text-shadow: 2px 2px #ce16be;
+  background-color: #ffffff;
+  opacity: 0.5;
+  font-size: 30px;
+  color: #ce16be !important;
+
   padding-left: 40px;
+  font-family: "Cute Font", cursive;
 }
 .link-box {
   padding-top: 30px;
   text-align: center;
 }
 .duck-box {
-  font-size: 20px;
+  font-size: 30px;
   color: black !important;
   text-shadow: 2px 2px yellow;
   padding-left: 40px;
